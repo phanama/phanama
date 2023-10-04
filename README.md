@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏻 I'm an Infrastructure Software Engineer with 7 years experience with startup companies in Indonesia and Japan.<br>✨ Working mostly with Kubernetes and CNCF projects, around DevOps stuff.<br>📚 Continuously learning and taking challenges around CNCF projects.<br>🌍 Loves OSS projects and the community around it.<br>🏢 I currently work for GoTo Financial (GTF) as a Senior Software Engineer - Cloud Platform.<br><br>📌 I'll be speaking about How we scale ArgoCD with 10k+ Apps at KubeCon & CNCF Con North America 2023, November 6-9 @Chicago, IL.<br>Check out the schedule and reserve your spot:<br>https://sched.co/1R2po<br>https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/</p>
+<p align="left">👨🏻 I'm an Infrastructure Software Engineer with 7 years experience with startup companies in Indonesia and Japan.<br>✨ Working mostly with Kubernetes and CNCF projects, around DevOps stuff.<br>📚 Continuously learning and taking challenges around CNCF projects.<br>🌍 Loves OSS projects and the community around it.<br>🏢 I currently work for GoTo Financial (GTF) as a Senior Software Engineer - Cloud Platform.<br><br>📌 I'll be speaking about How we scale ArgoCD with 10k+ Apps at KubeCon & CNCF Con North America, 6-9 Nov 2023.<br>Check out the schedule and reserve your spot!<br>- https://sched.co/1R2po<br>- https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/</p>
 
 ###
 
