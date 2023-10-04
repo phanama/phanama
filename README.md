@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+## Hey 👋 What's up?
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+## About me
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+## My Tech Stack
 
 ###
 
